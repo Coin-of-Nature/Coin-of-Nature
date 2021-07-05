@@ -6,7 +6,7 @@
 | ----------- | ----------- | ----------- | ----------- |
 
 - **Website:** [coinofnature.io](https://coinofnature.io/)
-- **Blockchain Explorer:** [Bscscan](https://www.bscscan.com/token/)
+- **Blockchain Explorer:** [Bscscan](https://www.bscscan.com/token/0xe0e0Fbc7E8D881953d39CF899409410B50b8C924)
 
 ---
 
