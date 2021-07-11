@@ -2,7 +2,7 @@
 
 ![Coin of Nature_Logo](./images/logo.png)
 
-| [Reddit](https://www.reddit.com/r/Coin_of_Nature/)| [Twitter](https://twitter.com/Coin_of_Nature) |[Telegram](https://t.me/coin_of_nature)|[Discord](https://discord.gg/38rC6ec7SB)|
+| [Reddit](https://www.reddit.com/r/Coin_of_Nature/)| [Twitter](https://twitter.com/CoinOfNature) |[Telegram](https://t.me/coin_of_nature)|[Discord](https://discord.gg/38rC6ec7SB)|
 | ----------- | ----------- | ----------- | ----------- |
 
 - **Website:** [coinofnature.io](https://coinofnature.io/)
